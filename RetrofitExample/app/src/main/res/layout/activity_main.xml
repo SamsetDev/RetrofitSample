@@ -17,6 +17,7 @@
 
 
     <android.support.v7.widget.AppCompatEditText
+        android:layout_margin="5dp"
         android:id="@+id/etrepository"
         android:layout_width="280dp"
         android:text="samsetdev"
